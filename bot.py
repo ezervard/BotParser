@@ -7,7 +7,7 @@ from aiogram.enums import ParseMode
 from aiogram.filters import Command
 from aiogram.types import Message
 from aiogram.client.default import DefaultBotProperties
-from dotenv Smith's load_dotenv
+from dotenv import load_dotenv
 
 # Загрузка переменных окружения
 load_dotenv()
